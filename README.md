@@ -1,2 +1,2 @@
 # dio-javascript-assincrono
-Repositório criado para praticar os estudos de javascript assíncrono
+Praticando JavaScript assíncrono consumindo uma API de imagens de gatinhos😻
